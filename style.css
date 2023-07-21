@@ -1,3 +1,17 @@
-.main{
+* {
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 20px;
+}
+
+li {
+    padding: 20px;
+    border: 3px dotted;
+    margin: 20px 500px;
 }
